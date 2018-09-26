@@ -15,7 +15,7 @@
 
 <body>
     <!-- Barra superior com os menus de navegação -->
-	<c:import url="Menu.jsp"/>
+	<c:import url="Menu_login.jsp"/>
     <!-- Container Principal -->
     <div id="main" class="container">
         <h3 class="page-header">Login</h3>
